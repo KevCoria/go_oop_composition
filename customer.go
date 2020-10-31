@@ -1,6 +1,6 @@
 package customer
 
-//Customer is the struct of a client
+//Customer is the struct of client
 type Customer struct {
 	name    string
 	address string
